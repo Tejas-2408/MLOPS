@@ -10,3 +10,4 @@ statsmodels
 plotly
 nbformat
 xgboost
+kneed
