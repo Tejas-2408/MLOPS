@@ -1,0 +1,7 @@
+1. Cleaning of I/p: Text Preprocessing -> Tokenization, Lemmatization, Stemming, Stopwords
+2. Converting text into Vectors: Text preprocessing 2 -> Bag of words (BOW), Tf/IDF
+3. I/p text -> vectors : word2vee, Avgword2vee
+4. Neural N/w: RNN, LSTM RNN, GRV RNN
+5. Text preprocessing: Word embedding
+6. TRANSFORMER
+7. BERT
