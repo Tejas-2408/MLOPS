@@ -1,0 +1,11 @@
+Topics:
+1. Corpus -> Paragraph
+2. Documents -> sentences
+3. Vocabulary -> Unique words
+4. Words
+
+Corpus: My name is Tejas Bansal. I am also a YouTuber
+Sentences:
+S1: My name is Tejas Bansal
+S2: I am also a YouTuber
+
