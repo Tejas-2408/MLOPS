@@ -5,3 +5,8 @@
 5. Text preprocessing: Word embedding
 6. TRANSFORMER
 7. BERT
+
+Dataset->	Text Preprocessing 1 ->	Text Preprocessing 2 ->	Text to vectors
+	       Tokenization	        Stemming		
+	       Lowercase the words	Lemmatization	
+	       Regular Expressions	Stopwords	
