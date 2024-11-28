@@ -6,7 +6,9 @@
 6. TRANSFORMER
 7. BERT
 
-Dataset->	Text Preprocessing 1 ->	Text Preprocessing 2 ->	Text to vectors
-	       Tokenization	        Stemming		
-	       Lowercase the words	Lemmatization	
-	       Regular Expressions	Stopwords	
+Dataset->	Text Preprocessing 1 ->	Text Preprocessing 2 ->	Text to vectors ->  ML Algorithm
+	       Tokenization	        Stemming		One Hot Encoding
+	       Lowercase the words	Lemmatization		Bag of words (BOW)
+	       Regular Expressions	Stopwords		TF-IDF
+								Word2Vec
+								AvgWord2Vec
