@@ -1,0 +1,24 @@
+Advantages of One Hot Encoding in NLP:
+1. Easy to implement in python (sklearn->OneHotEncoder, pd.get_dummies())
+
+
+Disadvantages:
+1. Sparse matrix -> overfitting
+2. ML Algorithm (unequal length of vectors of each data point) -> Size of I/p
+3. No semantic meaning is getting captured -> the most important word and it's relation to others
+4. Out of Vocabulary (OOV)
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Advantages of Bag of Words
+1. Simple and intuitive
+2. Fixed size i/p for ML algo
+
+
+
+Disadvantages of BOW:
+1. Sparse Matrix or array -> overfitting
+2. Order of words changed -> meaning get changed
+3. Out of Vocabulary
+4. Not much semantic meanings are captured
