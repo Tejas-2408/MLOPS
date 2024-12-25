@@ -1,0 +1,10 @@
+Advantages:
+1. Intiutive
+2. Fixed size -> based on vocabulary
+3. Word importance is captured based on all sentences
+
+
+
+Disadvantage:
+1. Sparsity still exists
+2. Out of vocabulary (OOV)
